@@ -14,7 +14,7 @@ Run **following function** and get:
 
 ```terminal
 ######optional
-cd stock_sentiment_project
+cd [your local dir]
 python -m venv venv 
 source venv/bin/activate
 pip install --upgrade pip
